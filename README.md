@@ -9,8 +9,9 @@ My name is Juan Esteban Duque Morales, i'm an industrial engineer born in Colomb
 ## Contact
 
 You can reach me at:
-- 📫 juanesduquemorales@gmail.com
-- 🤖 [Juanes Duque#4981](./) on Discord
+- 👨🏻‍💻 LinkedIn: https://www.linkedin.com/in/juan-esteban-duque-morales-5a6447224/
+- 📫 Email: juanesduquemorales@gmail.com
+- 🤖 Discord: [Juanes Duque#4981](./)
 
 ## Stats 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juanesduque1&show_icons=true&bg_color=000000&text_color=B9B8B7&icon_color=5345DE&title_color=FFFFFF&border_color=111A7A)
