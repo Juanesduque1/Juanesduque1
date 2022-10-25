@@ -4,7 +4,7 @@
 
 ## Hey! 👋
 
-My name is Juan Esteban Duque Morales, i'm an industrial engineer born in Colombia who is just entering the world of programming and development, loves to learn and is really passionate for what he likes. I also want to pursue my career as a software engineer.
+My name is Juan Esteban Duque Morales, i'm an industrial engineer born in Colombia who is entering the world of programming and development, loves to learn and is really passionate for what he likes. I also want to pursue my career as a software engineer.
 
 ## Contact
 
