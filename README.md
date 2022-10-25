@@ -2,6 +2,10 @@
   <img src="https://github.com/Juanesduque1/Juanesduque1/blob/2efed938984b92b11c6780eb9b2c489ab7331750/name.svg" alt="Juan Esteban Duque" />
 </h1>
 
+
+## Stats 
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juanesduque1&show_icons=true&bg_color=282A36&text_color=D9E0EE&icon_color=FBD1D1&title_color=FBD1D1&border_color=44475A)
+  
 <!--### Hi there 👋
 
 <!--
