@@ -13,4 +13,4 @@ You can reach me at:
 - 🤖 [Juanes Duque#4981](./) on Discord
 
 ## Stats 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juanesduque1&show_icons=true&bg_color=000000&text_color=B9B8B7&icon_color=5345DE&title_color=FFFFFF&border_color=5345DE)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juanesduque1&show_icons=true&bg_color=000000&text_color=B9B8B7&icon_color=5345DE&title_color=FFFFFF&border_color=111A7A)
